@@ -1,6 +1,6 @@
 # Sales-Performance-and-Profitability-Analysis
 
-# This GitHub repository contains a comprehensive dashboard and associated scripts for analyzing sales performance and profitability across various business dimensions. Utilizing advanced data processing techniques with Excel, including VLOOKUP, INDEX/MATCH, and Power Query, the project integrates multiple data sources to provide a deep dive into sales trends, customer behaviors, and profitability metrics.
+This GitHub repository contains a comprehensive dashboard and associated scripts for analyzing sales performance and profitability across various business dimensions. Utilizing advanced data processing techniques with Excel, including VLOOKUP, INDEX/MATCH, and Power Query, the project integrates multiple data sources to provide a deep dive into sales trends, customer behaviors, and profitability metrics.
 
 # Main Features:
 - Sales Over Time Analysis: Explore trends in sales from 2014 to 2018, with insights into seasonal effects and growth patterns.
